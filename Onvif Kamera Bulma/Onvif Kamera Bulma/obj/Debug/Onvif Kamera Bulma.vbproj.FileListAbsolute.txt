@@ -1,0 +1,22 @@
+C:\Users\Filosoft\AppData\Local\Temporary Projects\Onvif Kamera Bulma\bin\Debug\Onvif Kamera Bulma.exe.config
+C:\Users\Filosoft\AppData\Local\Temporary Projects\Onvif Kamera Bulma\bin\Debug\Onvif Kamera Bulma.exe
+C:\Users\Filosoft\AppData\Local\Temporary Projects\Onvif Kamera Bulma\bin\Debug\Onvif Kamera Bulma.pdb
+C:\Users\Filosoft\AppData\Local\Temporary Projects\Onvif Kamera Bulma\bin\Debug\Onvif Kamera Bulma.xml
+C:\Users\Filosoft\AppData\Local\Temporary Projects\Onvif Kamera Bulma\obj\Debug\Onvif Kamera Bulma.vbprojAssemblyReference.cache
+C:\Users\Filosoft\AppData\Local\Temporary Projects\Onvif Kamera Bulma\obj\Debug\Onvif_Kamera_Bulma.Resources.resources
+C:\Users\Filosoft\AppData\Local\Temporary Projects\Onvif Kamera Bulma\obj\Debug\Onvif Kamera Bulma.vbproj.GenerateResource.cache
+C:\Users\Filosoft\AppData\Local\Temporary Projects\Onvif Kamera Bulma\obj\Debug\Onvif Kamera Bulma.vbproj.CoreCompileInputs.cache
+C:\Users\Filosoft\AppData\Local\Temporary Projects\Onvif Kamera Bulma\obj\Debug\Onvif Kamera Bulma.exe
+C:\Users\Filosoft\AppData\Local\Temporary Projects\Onvif Kamera Bulma\obj\Debug\Onvif Kamera Bulma.xml
+C:\Users\Filosoft\AppData\Local\Temporary Projects\Onvif Kamera Bulma\obj\Debug\Onvif Kamera Bulma.pdb
+E:\Onvif Kamera Bulma\Onvif Kamera Bulma\bin\Debug\Onvif Kamera Bulma.exe.config
+E:\Onvif Kamera Bulma\Onvif Kamera Bulma\bin\Debug\Onvif Kamera Bulma.exe
+E:\Onvif Kamera Bulma\Onvif Kamera Bulma\bin\Debug\Onvif Kamera Bulma.pdb
+E:\Onvif Kamera Bulma\Onvif Kamera Bulma\bin\Debug\Onvif Kamera Bulma.xml
+E:\Onvif Kamera Bulma\Onvif Kamera Bulma\obj\Debug\Onvif_Kamera_Bulma.Anasayfa.resources
+E:\Onvif Kamera Bulma\Onvif Kamera Bulma\obj\Debug\Onvif_Kamera_Bulma.Resources.resources
+E:\Onvif Kamera Bulma\Onvif Kamera Bulma\obj\Debug\Onvif Kamera Bulma.vbproj.GenerateResource.cache
+E:\Onvif Kamera Bulma\Onvif Kamera Bulma\obj\Debug\Onvif Kamera Bulma.vbproj.CoreCompileInputs.cache
+E:\Onvif Kamera Bulma\Onvif Kamera Bulma\obj\Debug\Onvif Kamera Bulma.exe
+E:\Onvif Kamera Bulma\Onvif Kamera Bulma\obj\Debug\Onvif Kamera Bulma.xml
+E:\Onvif Kamera Bulma\Onvif Kamera Bulma\obj\Debug\Onvif Kamera Bulma.pdb
